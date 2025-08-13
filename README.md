@@ -1,2 +1,2 @@
 # Car-Rental-System
-A desktoped based car booking app that allow the user to rent a car on per day rent system.
+I created a simple desktop app in Java to manage car rentals. It lets users add cars, register customers, book cars, and return them. The app calculates rental costs automatically and stores all information in a MySQL database using JDBC. I used Java Swing to make the interface easy to use. This project helped me understand how to connect Java programs with databases and build real applications.
